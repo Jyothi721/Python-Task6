@@ -10,7 +10,7 @@ Learn how to handle runtime errors gracefully using Python exception handling.
 - Error handling best practices
 
 ## Files Included
-- `task6.py`
+- `Task6.py`
 
 ## Program Features
 - Accepts two numeric inputs
